@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "title": "Senior Interior Designer",
+    "location": "Mumbai, India",
+    "description": "Specializing in modern residential spaces with a focus on sustainable materials and smart home integration.",
+    "tags": ["Modern", "Sustainable", "Smart Homes"],
+    "rating": 4.8,
+    "projects": 127,
+    "clients": 89,
+    "price": "₹2,500",
+    "priceUnit": "per sq ft",
+    "avatar": "SJ"
+  },
+  {
+    "id": 2,
+    "name": "Rajesh Patel",
+    "title": "Luxury Space Designer",
+    "location": "Delhi, India",
+    "description": "Expert in creating luxurious commercial and residential spaces with attention to detail and premium finishes.",
+    "tags": ["Luxury", "Commercial", "Premium"],
+    "rating": 4.9,
+    "projects": 203,
+    "clients": 156,
+    "price": "₹3,800",
+    "priceUnit": "per sq ft",
+    "avatar": "RP"
+  },
+  {
+    "id": 3,
+    "name": "Priya Sharma",
+    "title": "Minimalist Design Expert",
+    "location": "Bangalore, India",
+    "description": "Creating clean, functional spaces that maximize natural light and promote wellness through thoughtful design.",
+    "tags": ["Minimalist", "Wellness", "Natural Light"],
+    "rating": 4.7,
+    "projects": 98,
+    "clients": 67,
+    "price": "₹2,200",
+    "priceUnit": "per sq ft",
+    "avatar": "PS"
+  },
+  {
+    "id": 4,
+    "name": "Arjun Menon",
+    "title": "Traditional Architect",
+    "location": "Kochi, India",
+    "description": "Blending traditional Indian architecture with contemporary functionality for timeless living spaces.",
+    "tags": ["Traditional", "Architecture", "Cultural"],
+    "rating": 4.6,
+    "projects": 156,
+    "clients": 112,
+    "price": "₹2,800",
+    "priceUnit": "per sq ft",
+    "avatar": "AM"
+  },
+  {
+    "id": 5,
+    "name": "Kavya Reddy",
+    "title": "Sustainable Designer",
+    "location": "Hyderabad, India",
+    "description": "Passionate about eco-friendly designs using recycled materials and energy-efficient solutions.",
+    "tags": ["Sustainable", "Eco-friendly", "Energy Efficient"],
+    "rating": 4.8,
+    "projects": 134,
+    "clients": 98,
+    "price": "₹2,600",
+    "priceUnit": "per sq ft",
+    "avatar": "KR"
+  }
+]

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interior Designers - EmptyCup</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <div class="header-top">
+                <div class="logo">EmptyCup</div>
+                <div class="profile-icon">👤</div>
+            </div>
+            
+            <div class="search-bar">
+                <input type="text" class="search-input" placeholder="Search designers...">
+                <span class="search-icon">🔍</span>
+            </div>
+            
+            <div class="filters">
+                <button class="filter-btn active" id="allFilter">All</button>
+                <button class="filter-btn" id="shortlistedFilter">
+                    <span>❤️</span>
+                    Shortlisted
+                </button>
+                <button class="filter-btn" data-tag="modern">Modern</button>
+                <button class="filter-btn" data-tag="traditional">Traditional</button>
+                <button class="filter-btn" data-tag="minimalist">Minimalist</button>
+            </div>
+        </div>
+
+        <!-- Listings -->
+        <div class="listings" id="listings">
+            <div class="loading" id="loading">Loading designers...</div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
